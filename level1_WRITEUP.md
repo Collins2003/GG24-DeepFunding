@@ -1,4 +1,4 @@
-# Level I Submission — Seed Node Weights (georgeterlumu)
+# Level I Submission — Seed Node Weights (collinsaondongu)
 
 Hey everyone, sharing my approach for Level I. I'll keep this honest about what worked and what didn't since I think that's more useful than just presenting the final result.
 
