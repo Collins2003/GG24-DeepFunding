@@ -1,7 +1,6 @@
 # GG24 Deep Funding Contest — Model Submissions
 
-**Author:** georgeterlumu  
-**Contest:** [Gitcoin GG24 Deep Funding](https://joinpond.ai)  
+Author:Collins Aondongu  Contest: [Gitcoin GG24 Deep Funding](https://joinpond.ai)  
 **Levels:** I, II, and III  
 
 ---
