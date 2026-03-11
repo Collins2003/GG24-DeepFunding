@@ -1,4 +1,4 @@
-# Level III Submission — Dependency Weights (georgeterlumu)
+# Level III Submission — Dependency Weights (collinsaondongu)
 
 Level III was the most interesting of the three for me. 3,677 pairs across 83 repos — for each repo, weight its dependencies so they sum to 1.
 
