@@ -1,4 +1,4 @@
-# Level II Submission — Originality Scores (georgeterlumu)
+# Level II Submission — Originality Scores (collinsaondongu)
 
 Posting my Level II approach separately since the problem is fundamentally different from Level I. This one took more iteration to get right.
 
